@@ -1,6 +1,6 @@
 # SVG Studio
 
-![SVG Studio interface](https://github.com/g-a-v-i-n/svg-studio-issues/tree/main/svg-studio.png)
+![SVG Studio interface](https://github.com/g-a-v-i-n/svg-studio-issues/blob/main/svg-studio.png)
 
 SVG Studio is a browser-based tool for developers and designers who work with SVG.
 
